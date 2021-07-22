@@ -7,35 +7,27 @@ en: # English
   homemain_announce: "<a href='https://www.chia.net/2021/07/07/official-pooling-launched.en.html'>Official pooling protocol is live!</a>"
   homemain_button: "Download Beta Testnet"
   homemain_description: |
-    Mainnet Release
+    Mainnet Release coming soon!
     --------------------
 
-    We believe that cryptocurrency should be easier to use than cash, harder to lose, and nearly impossible to steal. Anyone who wants to validate transactions should be able to farm without single-use hardware or a big electricity bill.
-
-    On February 9th we released our [Business Whitepaper](https://www.chia.net/2021/02/10/chia-businesss-whitepaper.html) and mainnet launched for farming rewards on Friday March 19, 2021. Transactions were enabled on May 3, 2021. You may also be interested in our [new consensus working document](/assets/Chia-New-Consensus-0.9.pdf) which was implemented first in Beta 19 on January 12, 2021.
-
-    Olive Blockchain develops a blockchain and smart transaction platform created by the inventor of BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). It implements the first new Nakamoto consensus algorithm since Bitcoin in 2008. Proofs of Space and Time replace energy intensive “proofs of work.”
-
-    [Chialisp](https://chialisp.com) is Chia’s new on chain programming language that is powerful, easy to audit, and secure. It will make cryptocurrency easier to use than cash. Reference smart transactions currently available are: [Coloured coins](https://www.chia.net/2020/04/29/coloured-coins-launch.en.html), [rate-limited wallets](https://github.com/Chia-Network/chia-blockchain/tree/main/chia/wallet/rl_wallet), and [distributed identity wallets](https://github.com/Chia-Network/chia-blockchain/tree/main/chia/wallet/did_wallet). Bram introduces [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html) on our [blog](/blog) and you can learn more at [Chialisp.com](https://chialisp.com).
-
-    You should review the [release notes](download/#release-notes) and then [install](/download) Chia blockchain.
+    We believe that Olive is the new safe, green and secure way to do transaction. With deflation characteristics of Olive, early adopters will be rewarded. With minimal prefarm
   homemain_addendum: |
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
   homemain_box_title: "Download"
-  homemain_box_section_1: "Blockchain, Chialisp and Coloured coins"
+  homemain_box_section_1: "Start Mining OLIVE now"
   homemain_box_section_2: "Install"
   homemain_box_latest_version: "Latest Version:"
   homemain_chia_blockchain_no_releases: "1.0"
   homemain_wallets_no_releases: "1.0"
   homemain_box_button: "Download Source Code"
-  install_box_button: "Install Chia Blockchain"
+  install_box_button: "Install Olive Blockchain"
   homemain_downloads_link: "Release notes"
-  homemain_idc_title: "IDC on Chia"
+  homemain_idc_title: "IDC on Olive"
   homemain_idc_quote: |
     “The Olive Blockchain was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
   download_main_text: |
-    This is the official Chia installer download page. Any other installer download sources are unofficial and unsafe.
+    This is the official Olive installer download page. Any other installer download sources are unofficial and unsafe.
   download_windows_text: |
     Deadlights jack lad schooner scallywag dance the hempen jig carouser broadside cable strike colors.
   download_macos_text: |
@@ -52,7 +44,7 @@ en: # English
   download_amzlinux_button: "Install Amazon Linux"
   about_title: "About Us"
   about_description: |
-    Founded by Bram Cohen, the inventor of the BitTorrent network, Olive Blockchain is building a better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
+    Founded by Jeffrey Chan, the inventor of the Olive network, Olive Blockchain is building a better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
 
     Chialisp is Chia’s new smart transaction programming language that is powerful, easy to audit, and secure. The blockchain is powered by the first new Nakamoto style consensus algorithm since Bitcoin launched in 2008. Proofs of Space and Time replace energy intensive “proofs of work” by utilizing unused disk space.
 
@@ -63,14 +55,14 @@ en: # English
   about_invest_investors_title: "Our Investors"
   careers_title: "Careers"
   careers_description: |
-    **Chia is hiring!**
+    **Olive is hiring!**
 
     We believe that anyone should be able to farm and that cryptocurrency should be easier to use and more secure than cash. That means we need people who want to create internet class user experience on the most secure blockchain and smart transaction platform created so far.
 
-    Many on the Chia team are located in the SF Bay Area but remote is fine as we have people all over the world - Keybase, GitHub, and Zoom are how we work. Geographic restrictions, if any, will be noted in a job specification.
+    Many on the Olive team are located in the SF Bay Area but remote is fine as we have people all over the world - Keybase, GitHub, and Zoom are how we work. Geographic restrictions, if any, will be noted in a job specification.
 
     Please send your resume and cover letter to [jobs@chia.net](jobs@chia.net). Please put the role you are applying for as part of the subject line and include anything additionally required by a specific job posting.
-  blog_title: "Notes from Chia"
+  blog_title: "Notes from Olive"
   download_title: "Release Notes"
   download_loading_message: "Loading releases..."
   green_paper_main_title: "Chia's Green Paper"
