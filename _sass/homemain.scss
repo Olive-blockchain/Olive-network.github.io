@@ -32,15 +32,15 @@
         }
 
         .btn {
-            border: 3px solid #3AAC59;
+            border: 3px solid #65b30d;
             border-radius: 2px;
             font-size: 24px;
-            color: #3AAC59;
+            color: #65b30d;
             padding: 1rem 2rem;
             transition: ease 0.2s all;
 
             &:hover {
-                background: #3AAC59;
+                background: #76b988;
                 color: #0D324D;
             }
         }
@@ -74,7 +74,7 @@
         }
 
         .btn {
-            background: #3AAC59;
+            background: #65b30d;
             color: white;
             border-radius: 2px;
             font-weight: bold;
@@ -90,7 +90,7 @@
     }
 
     .release-notes {
-        color: #3AAC59;
+        color: #65b30d;
         text-decoration: underline;
         margin-top: 40px;
         font-weight: bold;
