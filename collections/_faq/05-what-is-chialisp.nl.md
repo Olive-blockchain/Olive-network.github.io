@@ -1,7 +1,7 @@
 ---
 lang: nl
 order: 5
-title: "Wat is Chialisp?"
+title: "Wat is Olivelisp?"
 ---
-Chia heeft een nieuw ontwikkelde, innovatieve blockchain-programmeertaal genaamd Chialisp, die krachtig, gemakkelijk te controleren en veilig is. Chialisp is een superieure on-chain slimme transactie-ontwikkelomgeving die de beveiliging, transparantie en gebruiksgemak ontgrendelt die cryptocurrencies beloven.
+Olive heeft een nieuw ontwikkelde, innovatieve blockchain-programmeertaal genaamd Olivelisp, die krachtig, gemakkelijk te controleren en veilig is. Olivelisp is een superieure on-chain slimme transactie-ontwikkelomgeving die de beveiliging, transparantie en gebruiksgemak ontgrendelt die cryptocurrencies beloven.
  

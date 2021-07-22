@@ -1,7 +1,7 @@
 ---
 lang: nl
 order: 21
-title: "Gebruikt Chia de code van Bitcoin?"
+title: "Gebruikt Olive de code van Bitcoin?"
 ---
 
-Nee. Chia is helemaal opnieuw geschreven.
+Nee. Olive is helemaal opnieuw geschreven.

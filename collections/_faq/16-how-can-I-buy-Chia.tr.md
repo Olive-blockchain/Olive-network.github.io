@@ -1,6 +1,6 @@
 ---
 lang: tr
 order: 16
-title: "Chia'yı nasıl satın alabilirim?"
+title: "Olive'yı nasıl satın alabilirim?"
 ---
-İşlemler ana ağda başladıktan kısa bir süre sonra Chia, diğer chia sahiplerinin küresel borsalarında alım, satım ve ticaret için hazır olacak.
+İşlemler ana ağda başladıktan kısa bir süre sonra Olive, diğer Olive sahiplerinin küresel borsalarında alım, satım ve ticaret için hazır olacak.

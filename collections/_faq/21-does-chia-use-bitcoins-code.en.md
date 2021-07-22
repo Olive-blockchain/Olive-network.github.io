@@ -1,7 +1,7 @@
 ---
 lang: en
 order: 21
-title: "Does Chia use Bitcoin’s code?"
+title: "Does Olive use Bitcoin’s code?"
 ---
 
-No. Chia is written entirely from scratch.
+No. Olive is written entirely from scratch.

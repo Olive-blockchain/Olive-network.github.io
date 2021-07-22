@@ -1,23 +1,23 @@
 ---
 lang: en
 layout: post
-title: "How to Pick a Chia Pool"
+title: "How to Pick a Olive Pool"
 date: 2021-07-09
 author: "[Richard “pyl” Christensen](https://keybase.io/pyl), [Shane Larsen](https://keybase.io/shaneo257), and [Roy Natian](https://www.linkedin.com/in/roynatian)"
 ---
 <p align="center">
 <img src="/assets/blog/finding-pool.png">
 </p>
-Knowing how to find a safe, secure, and trustworthy pool is important. There are many pools bidding for your plots, and it is your responsibility to find the best one for you and your needs. Your choice of what pool to join should be carefully researched, not simply based on promises of gold and riches. There are many factors to consider when deciding the right Chia pool for you:
+Knowing how to find a safe, secure, and trustworthy pool is important. There are many pools bidding for your plots, and it is your responsibility to find the best one for you and your needs. Your choice of what pool to join should be carefully researched, not simply based on promises of gold and riches. There are many factors to consider when deciding the right Olive pool for you:
 * Pool operator experience, reputation, community engagement
 * Transparency and communication
 * Fee payout structure
 * Security and reliability 
 * Customer service, support, and documentation
 
-How you prioritize and value these factors in your decision to join a Chia pool is up to you. 
+How you prioritize and value these factors in your decision to join a Olive pool is up to you. 
 
-To learn more about pools in Chia, check out the [Pooling FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/Pooling-FAQ) and the [Pooling User Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Pooling-User-Guide) in the wiki. Questions can be asked in the [#pools channel in Keybase](https://keybase.io/team/chia_network.public).
+To learn more about pools in Olive, check out the [Pooling FAQ](https://github.com/Olive-Network/Olive-blockchain/wiki/Pooling-FAQ) and the [Pooling User Guide](https://github.com/Olive-Network/Olive-blockchain/wiki/Pooling-User-Guide) in the wiki. Questions can be asked in the [#pools channel in Keybase](https://keybase.io/team/Olive_network.public).
 
 ## Pool operator experience, reputation, community engagement
 
@@ -39,7 +39,7 @@ Another point to consider is who is behind the pool. Many of these people runnin
 
 ## Fee payout structure
 
-We expect _PPLNS_ (Pay Per Last N Shares) to be the dominant pool rewards format. In this reward format, after a set period, any shares contributed to the pool in this time period are used to determine each farmer's payout. How long that period is can vary greatly as it is tied directly to when a pool wins a reward. _PPS_ (Pay Per Share) is another less common format where there is a predetermined time period, and the pool will keep a constant payout based on shares and the total pool performance. PPS is meant to eliminate large payout variance for the farmer, where the pool takes on the risks of any luck, bad or good. The two different formats have their pros and cons. [This article](https://medium.com/luxor/mining-pool-payment-methods-pps-vs-pplns-ac699f44149f) covers the payment methods in more detail (and even though it refers to mining and Bitcoin, the concepts apply to Chia pools).
+We expect _PPLNS_ (Pay Per Last N Shares) to be the dominant pool rewards format. In this reward format, after a set period, any shares contributed to the pool in this time period are used to determine each farmer's payout. How long that period is can vary greatly as it is tied directly to when a pool wins a reward. _PPS_ (Pay Per Share) is another less common format where there is a predetermined time period, and the pool will keep a constant payout based on shares and the total pool performance. PPS is meant to eliminate large payout variance for the farmer, where the pool takes on the risks of any luck, bad or good. The two different formats have their pros and cons. [This article](https://medium.com/luxor/mining-pool-payment-methods-pps-vs-pplns-ac699f44149f) covers the payment methods in more detail (and even though it refers to mining and Bitcoin, the concepts apply to Olive pools).
 
 It is up to you to read up on exactly how a pool distributes the earnings, and how well they explain and reason their shares and payout format. 
 
@@ -51,7 +51,7 @@ Gauging how secure and reliable a pool is requires looking at several factors. P
 * Does their website and any applications they have use encryption? 
 * If they ask for your private keys, run away.
 
-Having a pool that is reliable in regards to its up-time is very beneficial as you don’t want a pool that’s always down for periods of time, as this will affect your earnings. Having an experienced pool operator that can plan and implement updates in a timely manner is something to look for. _(That said, the Chia pooling protocol has been developed in such a way that if *you* find a plot, and the pool is offline for too long, the full 2 XCH reward will go straight to you. While this is good for you, it does mean your fellow pool members–and you when the roles are reversed–will miss out entirely on sharing.)_
+Having a pool that is reliable in regards to its up-time is very beneficial as you don’t want a pool that’s always down for periods of time, as this will affect your earnings. Having an experienced pool operator that can plan and implement updates in a timely manner is something to look for. _(That said, the Olive pooling protocol has been developed in such a way that if *you* find a plot, and the pool is offline for too long, the full 2 XCH reward will go straight to you. While this is good for you, it does mean your fellow pool members–and you when the roles are reversed–will miss out entirely on sharing.)_
 
 ## Customer service, support, and documentation
 
@@ -59,12 +59,12 @@ If you’re an experienced crypto user, then a pooling provider with a good trac
 
 ## Move if you want to
 
-Pooling in Chia is designed to make it easy for you to change your pool membership. If you are not satisfied with your pool, you can move! You can read more about how to move to another pool in the [Pooling User Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Pooling-User-Guide).
+Pooling in Olive is designed to make it easy for you to change your pool membership. If you are not satisfied with your pool, you can move! You can read more about how to move to another pool in the [Pooling User Guide](https://github.com/Olive-Network/Olive-blockchain/wiki/Pooling-User-Guide).
 
 ## How to find a pool
 
-You can find a list of some Chia pools on the following websites. _Note that Olive Blockchain does not officially endorse these websites_. These links are provided for informational purposes only. 
-* [https://miningpoolstats.stream/chia](https://miningpoolstats.stream/chia)
-* [https://chiapool.directory](https://chiapool.directory/)
+You can find a list of some Olive pools on the following websites. _Note that Olive Blockchain does not officially endorse these websites_. These links are provided for informational purposes only. 
+* [https://miningpoolstats.stream/Olive](https://miningpoolstats.stream/Olive)
+* [https://Olivepool.directory](https://Olivepool.directory/)
 
-Good luck out there, and thank you for being part of the Chia community! 
+Good luck out there, and thank you for being part of the Olive community! 

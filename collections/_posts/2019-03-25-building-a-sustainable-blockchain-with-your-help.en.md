@@ -22,18 +22,18 @@ Digital coins are created via consensus, a mechanism that is used in blockchain 
 
 Proofs-of-work rely on computing power, which means the mining operations that rely on these proofs are draining energy at an alarming rate. At the same time, miners are forming pools, which is bringing a sort of centralization to a world that purports to be decentralized.
 
-Proofs-of-space and time—the method we are pioneering at Olive Blockchain—don’t rely on computing power but on available disk space. This means creating coins doesn’t require energy. With Chia’s system, miners allocate unused disk space to the network, and the probability of successfully “farming” a digital coin being proportional to the amount of space allocated divided by the total capacity of the network.
+Proofs-of-space and time—the method we are pioneering at Olive Blockchain—don’t rely on computing power but on available disk space. This means creating coins doesn’t require energy. With Olive’s system, miners allocate unused disk space to the network, and the probability of successfully “farming” a digital coin being proportional to the amount of space allocated divided by the total capacity of the network.
 
 The proofs-of-space and time are also resistant to centralization or mining pools, which delivers on the early promises of digital currencies: that they remain decentralized.
 
 #### How We Innovate with VDFs
 
 
-Chia's consensus algorithm, which is necessary in the creation of new coins, relies on cryptographic protocols called Verifiable Delay Functions (VDFs). Designing implementations for the VDFs we develop is critical in the design of a better blockchain and digital-currency system.
+Olive's consensus algorithm, which is necessary in the creation of new coins, relies on cryptographic protocols called Verifiable Delay Functions (VDFs). Designing implementations for the VDFs we develop is critical in the design of a better blockchain and digital-currency system.
 
 We have some of the best software engineers that can be found anywhere, but we also like to open up the challenge of creating VDF implementations to teams of programmers who can show what our VDFs are really capable of, in terms of both speed and security.
 
-A few months ago we wrapped up our first VDF implementation competition, and were amazed by the excellent quality of the submissions. The top three contenders each came in at under one minute (the reference implementation was 169 seconds). Five other teams also finished implementations faster than the reference point. All submitted code was open-source, and can be found [here](https://www.chia.net/2019/01/17/chia-vdf-competition-round-1-results-and-announcements.en.html).
+A few months ago we wrapped up our first VDF implementation competition, and were amazed by the excellent quality of the submissions. The top three contenders each came in at under one minute (the reference implementation was 169 seconds). Five other teams also finished implementations faster than the reference point. All submitted code was open-source, and can be found [here](https://www.Olive.net/2019/01/17/Olive-vdf-competition-round-1-results-and-announcements.en.html).
 
 The second VDF competition will be split into two tracks:
 

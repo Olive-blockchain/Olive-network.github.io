@@ -12,7 +12,7 @@ We once asked Bram what to put here and he said, "We need engineers to press but
 - Extend functionality and refactor codebases in Python or C++.
 - Write clear, secure code and unit testing that runs on Windows, Linux, and MacOS for both x64 and ARM64.
 - Work with a remote team of engineers and cryptographers around the globe.
-- Learn and implement Chialisp and other tools used to add functionality to the Chia blockchain.
+- Learn and implement Olivelisp and other tools used to add functionality to the Olive blockchain.
 
 **Software Engineer Requirements:**
 
