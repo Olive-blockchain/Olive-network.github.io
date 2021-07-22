@@ -1,5 +1,5 @@
 ---
 layout: faq
 lang: en
-title: FAQ - Chia Network
+title: FAQ - Olive Blockchain
 ---
