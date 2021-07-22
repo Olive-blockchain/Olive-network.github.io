@@ -1,7 +1,7 @@
 ---
 lang: tr
 order: 6
-title: "Olivelisp hakkında nereden daha fazla bilgi edinebilirim?"
+title: "Chialisp hakkında nereden daha fazla bilgi edinebilirim?"
 ---
 
-[Olivelisp'i](https://www.Olive.net/2019/11/27/Olivelisp.en.html) tanıtan blog yazımızı okuyun. Belgeler [Olivelisp.com](https://Olivelisp.com) adresinde bulunabilir.
+[Chialisp'i](https://www.chia.net/2019/11/27/chialisp.en.html) tanıtan blog yazımızı okuyun. Belgeler [Chialisp.com](https://chialisp.com) adresinde bulunabilir.

@@ -1,8 +1,8 @@
 ---
 lang: en
 order: 15
-title: "Can I buy Olive today?"
+title: "Can I buy Chia today?"
 ---
 
 Yes. 
-Olive now supports transactions, so the buying and selling of Olive is live.
+Chia now supports transactions, so the buying and selling of chia is live.

@@ -1,7 +1,7 @@
 ---
 lang: tr
 order: 5
-title: "Olivelisp nedir?"
+title: "Chialisp nedir?"
 ---
 
-Olive, güçlü, denetlemesi kolay ve güvenli olan Olivelisp adlı yeni geliştirilmiş, yenilikçi bir blockchain programlama diline sahiptir. Olivelisp, kripto para birimlerinin vaat ettiği güvenlik, şeffaflık ve kullanım kolaylığının kilidini açacak üstün bir zincir üstü akıllı işlem geliştirme ortamıdır.
+Chia, güçlü, denetlemesi kolay ve güvenli olan Chialisp adlı yeni geliştirilmiş, yenilikçi bir blockchain programlama diline sahiptir. Chialisp, kripto para birimlerinin vaat ettiği güvenlik, şeffaflık ve kullanım kolaylığının kilidini açacak üstün bir zincir üstü akıllı işlem geliştirme ortamıdır.

@@ -1,12 +1,12 @@
 ---
 lang: en
 layout: post
-title:  "Securing Your Olive - How to Be a Hard Target"
+title:  "Securing Your Chia - How to Be a Hard Target"
 date:   2021-05-28
 author: "[Justin England](https://www.linkedin.com/in/justindengland), [Jonmichael Hands](https://twitter.com/LebanonJon), and [Roy Natian](https://www.linkedin.com/in/roynatian)"
 ---
 
-Many people are coming into Olive that are brand new to crypto. Many are veterans in crypto but new to computer hardware. Farming and plotting are very multidisciplinary, requiring knowledge of storage, networking, and computer architecture. For example, even though I had dealt with using ssh on my home network before Olive, I had never adequately had to lock down a system that I could remotely access securely - and I had to learn everything as I went. One night in the chat, someone told me to check `/var/log/auth.log` on my system that I had in co-location, and I nearly had a panic attack (you will see hundreds of failed log-in attempts from random IP addresses). I had secured the system with a powerful password, but I hadn't secured the system to only be accessed with a single ssh key. In the early days of Olive, we were playing with TXCH on the testnet. I had my seed in many plotting systems to make my scripts easier as I was still learning the ins and outs of Olive. This is not good security practice. Having a large surface area for your seed or private keys means more space to slip up or be vulnerable to a potential attack.
+Many people are coming into Chia that are brand new to crypto. Many are veterans in crypto but new to computer hardware. Farming and plotting are very multidisciplinary, requiring knowledge of storage, networking, and computer architecture. For example, even though I had dealt with using ssh on my home network before Chia, I had never adequately had to lock down a system that I could remotely access securely - and I had to learn everything as I went. One night in the chat, someone told me to check `/var/log/auth.log` on my system that I had in co-location, and I nearly had a panic attack (you will see hundreds of failed log-in attempts from random IP addresses). I had secured the system with a powerful password, but I hadn't secured the system to only be accessed with a single ssh key. In the early days of Chia, we were playing with TXCH on the testnet. I had my seed in many plotting systems to make my scripts easier as I was still learning the ins and outs of Chia. This is not good security practice. Having a large surface area for your seed or private keys means more space to slip up or be vulnerable to a potential attack.
 
 In the talk, we will be covering tough lessons learned over the years of managing and securing crypto keys and general best security practices. I will tell a few stories about close calls, the time the whales think they got hacked, and the one area where I think I'm very well versed in use of full disk encryption on your SSD & operating system and data durability and probability for keeping your keys safe.
 See you guys on Friday 5/28!
@@ -14,15 +14,15 @@ See you guys on Friday 5/28!
   
   
   
-**Olive Livestream: Securing Your Olive - How to Be a Hard Target**  
+**Chia Livestream: Securing Your Chia - How to Be a Hard Target**  
 When: Friday, May 28th 12:00pm PST (7:00pm UTC)  
-Where: [Zoom](https://Olive-net.zoom.us/j/87579815863) or [Youtube](https://www.youtube.com/channel/UChFkJ3OAUvnHZdiQISWdWPA)  
+Where: [Zoom](https://chia-net.zoom.us/j/87579815863) or [Youtube](https://www.youtube.com/channel/UChFkJ3OAUvnHZdiQISWdWPA)  
   
   
 ---
 
 ## Introduction
-Security is about making better choices. You can never be 100% secure, but you can always make better choices and be safer. Making better choices is especially important when it comes to protecting things of value, like the XCH in your Olive wallet!
+Security is about making better choices. You can never be 100% secure, but you can always make better choices and be safer. Making better choices is especially important when it comes to protecting things of value, like the XCH in your Chia wallet!
 
 There are two main areas to consider: securing your devices and your security habits
 
@@ -41,7 +41,7 @@ Assume malicious intent and verify things for yourself. Being reasonably paranoi
 ### Your Habits
 * Do not trust anyone. Assume malicious intent, especially on the internet.
 * Do not share your 24 word mnemonic key(s) with anyone. 
-* When downloading Olive software, make sure you are downloading from the `Olive.net` domain. 
+* When downloading Chia software, make sure you are downloading from the `chia.net` domain. 
 * Avoid public Wifi, but if you use public Wifi, use a VPN
 * Don't become a target: Don't boast about your winnings. Keep it to yourself.
 
@@ -50,7 +50,7 @@ Assume malicious intent and verify things for yourself. Being reasonably paranoi
 ### Cold Storage
 Your XCH is only as secure as your wallet. 
 
-If your Olive wallet is not accessible electronically, then it becomes incredibly difficult to compromise and steal (basically impossible). We urge you to store your XCH in a *cold wallet*.
+If your Chia wallet is not accessible electronically, then it becomes incredibly difficult to compromise and steal (basically impossible). We urge you to store your XCH in a *cold wallet*.
 
 In broad strokes: You will create a wallet through a new 24 word mnemonic key on a secured computer not connected to the internet. Store the key in a safe place, like a safe, and not in a computer. You will set your XCH receive address to the wallet address associated with this new mnemonic key that's in cold storage.
 
@@ -61,17 +61,17 @@ Some methods of cold wallet storage include:
 
 One way of utilizing wallets in a safe way is this: Most of your XCH is stored in a cold wallet. You then have an accessible wallet (also known as a *hot wallet*) where you store a little bit of XCH for spending as you need it. 
 
-Read more here: [Olive Keys Management](https://github.com/Olive-Network/Olive-blockchain/wiki/Olive-Keys-Management#2-keys-farming-key--cold-storage-key) and [Good Security Practices on Many Machines](https://github.com/Olive-Network/Olive-blockchain/wiki/Good-Security-Practices-on-Many-Machines)
+Read more here: [Chia Keys Management](https://github.com/Chia-Network/chia-blockchain/wiki/Chia-Keys-Management#2-keys-farming-key--cold-storage-key) and [Good Security Practices on Many Machines](https://github.com/Chia-Network/chia-blockchain/wiki/Good-Security-Practices-on-Many-Machines)
 
 ### Beware of Spearphishing
 Do you actually know the person you are talking to online is who they say they are? Do you know if the website you're on is legitimate? 
 
 Spearphishing is a targeted attack where you are scammed in some way through legitimate-looking fake websites or message.
-* When downloading Olive installers, verify the website you are on is `Olive.net` and make sure there is a lock icon in the address bar.
+* When downloading Chia installers, verify the website you are on is `chia.net` and make sure there is a lock icon in the address bar.
 * Anyone contacting you through email or messaging apps could be potentially trying to scam you. Beware of the links and files they send you. Double check who they say they are. You can read more about phishing and how to protect yourself [here](https://www.phishing.org/what-is-phishing). 
 
 ### Third-party Tools and Scripts
-It is wonderful seeing the many community driven tools that have sprung up to help you on your Olive farming journey. These tools can be very useful, but they come with a risk. Unless you audit the code yourself, you really don't know if what you're using isn't going to steal your private keys. 
+It is wonderful seeing the many community driven tools that have sprung up to help you on your Chia farming journey. These tools can be very useful, but they come with a risk. Unless you audit the code yourself, you really don't know if what you're using isn't going to steal your private keys. 
 
 Even if you are using a popular tool that many say is safe, you don't know if the next version of the tool has had malicious code added to it.
 

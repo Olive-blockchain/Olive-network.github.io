@@ -6,7 +6,7 @@ date:   2021-02-16
 author: "[Gene Hoffman](https://twitter.com/hoffmang)"
 ---
 
-Come join a cocktail hour panel with Olive whales^H^H^H^H^H^H **experts** in plotting.
+Come join a cocktail hour panel with Chia whales^H^H^H^H^H^H **experts** in plotting.
 
 Joining Bram and Gene will be @xorinox, @storage_jm, @kiwihaitch, and @farming101.
 
@@ -16,7 +16,7 @@ We will again attempt to also stream live on YouTube but haven't gotten that to 
 
 **Updated: Replay of [Meet the plotting experts](https://youtu.be/wDVsZMDlQYw) is now up on YouTube.**
 
-Topic: Olive plotting - with the experts
+Topic: Chia plotting - with the experts
 
 When: Feb 19, 2021 04:00 PM Pacific Time (US and Canada)
 
