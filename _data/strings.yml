@@ -65,25 +65,27 @@ en: # English
   blog_title: "Notes from Olive"
   download_title: "Release Notes"
   download_loading_message: "Loading releases..."
-  green_paper_main_title: "Chia's Green Paper"
+  green_paper_main_title: "Olive's Green Paper"
   green_paper_download: "Download Green Paper"
   green_paper_description: |
     The Green Paper details a new consensus algorithm called Proofs of Space and Time, “PoST”. PoST replaces the Proof of Work which wastes massive amounts of energy and is less secure against mining centralization.
   green_paper_addendum_title: "Learn more"
   green_paper_addendum: |
-    We have academic papers and presentations that give detail about our new consensus algorithm and blockchain software. In 2019 we revealed our [Green Paper](https://www.chia.net/assets/ChiaGreenPaper.pdf) outlining the construction of Proofs of Space and Time and illustrating many of the design choices of Chia. There is also a [2019 talk from Mariano Sorgente](https://www.youtube.com/watch?v=_075bzQPooU) at MIT on how to achieve Nakamoto consensus with Proof of Space and VDFs.
+Introduction
+In 2009, Satoshi Nakamoto invented an alternative store of value never before seen in human history. In the next decade, his creation, Bitcoin, has secured its place as the hardest form of money in the new digital economy and the foundation of a new open, global financial system. Bitcoin changed the world; however, there has always been one complaint about Satoshi’s breakthrough - its energy cost.
 
-    Bram Cohen [presented](https://www.youtube.com/watch?v=2Zlcgt8FVz4) at Stanford on February 2018 on Proofs of Space. Our advisors, Dan Boneh, Benedikt Bünz, and Ben Fisch [published a survey of VDFs](https://eprint.iacr.org/2018/712.pdf) which are the underlying technology of Proof of Time. Lipa Long [published an explanation of class groups](https://github.com/Chia-Network/vdf-competition/blob/master/classgroups.pdf) that our [Proofs of Time](https://eprint.iacr.org/2018/627.pdf) is based on. Bram presented [Beyond Hellman’s Time-Memory Trade-Offs with Applications to Proofs of Space](https://www.youtube.com/watch?v=iqxkO7C-cyk) at BPASE ‘18 in January 2018 based on the [academic paper](https://eprint.iacr.org/2017/893) and these [slides](https://view.publitas.com/chia-network/pbase18slides/page/1) by Hamza Abusalah. Ben Fisch gave a [talk](https://www.youtube.com/watch?v=qUoagL7OZ1k) at BPASE 2018 in January 2018 on Verifiable Delay Functions. Bram [spoke at Blockchain at Berkeley](https://www.facebook.com/BlockchainatBerkeley/videos/2006069823011271/) (which starts about 20:00) in March 2018 with [slides](https://cyber.stanford.edu/sites/g/files/sbiybj9936/f/bramcohen.pdf). Bram gave a [talk at BPASE 2017](https://www.youtube.com/watch?v=aYG0NxoG7yw) in January 2017 on removing waste with Proofs of Space and Time ([slides](https://cyber.stanford.edu/sites/g/files/sbiybj9936/f/bramcohen.pdf)).
+Whenever we are talking about Bitcoin or Proof of Work, its “Consensus“ can definitely be defined as a “competitive money burning process”. Every time a transaction is added to the ledger, miners are racing to solve the puzzle and win a reward; however, only one of them wins. When a block is found, the process starts over. It is definitely not the perfect system, but it’s the most efficient one the world has witnessed so far. 
 
-    Bram gave a [talk](https://www.youtube.com/watch?v=zZaB4hM8SQ4) at SF Bitcoin Devs Seminar about data structures for scaling Bitcoin with [slides](https://view.publitas.com/chia-network/bitcoin_data_structures/) and [Merkle Set code](https://github.com/bramcohen/MerkleSet). Bram gave a [talk](https://www.youtube.com/watch?v=zZaB4hM8SQ4) at SF Bitcoin Devs Seminar about removing waste from cryptocurrencies.
+The crypto space never takes a day off. Things constantly evolve and do so at a rapid pace. Legacy networks in the space now face issues that have to do with their established modus operandi. More and more people are challenging the decentralized nature of Bitcoin; just a few days ago, Elon Musk, who turned from a Bitcoin bull to the cryptocurrency’s most avid critic overnight, tweeted that “Bitcoin is actually highly centralized, with supermajority controlled by handful of big mining (aka hashing) companies.” He supported this statement by citing the recent coal mine flood accident in Xinjiang, China, as a result of which Bitcoin’s hash rate dropped 35%.
+
+And it’s not just the decentralization that has been a bone of contention lately. Just three months ago, in February, Musk’s Tesla announced that it would start accepting Bitcoin payments for electric vehicle purchases. Simultaneously, it also became clear that the company had invested $1.5 billion in Bitcoin. Needless to say, the market reacted positively to the news. However, last week, Musk backtracked on Tesla’s announcement, revealing that eventually, the company had suspended vehicle purchases with Bitcoin, citing environmental concerns, namely the increasing use of fossil fuels for the cryptocurrency’s mining needs.
+
+Having said that, it is obvious that there are fundamental problems that the crypto space needs to address, if it wants to accelerate the adoption rate and live up to its promise to give power to the people over their finances.
+
+We at Olive, as crypto enthusiasts and true believers in the potential of blockchain technology, think that the access to blockchain and cryptocurrency projects should be democratized so that basically everyone who has hard drive storage to spare will have the opportunity to take part in the validation of transactions without further exacerbating his/her own carbon footprint. Crypto can be smart, simple, and, most importantly, green and highly decentralized.
   terms_title: "Terms"
   terms_description: |
-    The Chia® brand is a promise of standard in innovation and quality.
-
-    When you are authorized to use the Chia® brand and respect the Chia® brand guidelines, you help us ensure the strength of the brand, while protecting the entire community from being misled, confused or mistreated.
-
-    Please read over the following guidelines carefully, and never hesitate to reach out with questions or permission requests at hello@chia.net.
-
+    The Olive® 
     Happy Farming!
   terms_team_title: "Guidelines"
   terms_team_description: |
@@ -95,9 +97,9 @@ en: # English
     download: "Download"
     about: "About"
     blog: "Blog"
-   # news: "News"
+    news: "News"
     faq: "FAQ"
-   # greenpaper: "Green Paper"
+    greenpaper: "Green Paper"
     #careers: "Careers"
     contact: "Contact"
   contact_title: "Contact Us"
@@ -109,7 +111,7 @@ en: # English
   contact_signup: "Submit"
   proof_of_space_competition_header: "Win $100K in total prize money with Chia's Proof of Space Competition."
   proof_of_space_competition_about_competition_header: "About the Competition"
-  proof_of_space_competition_about_competition_text: "Chia is having a competition for best implementation of our proof of space construct. $100k in total prize money will be awarded."
+  proof_of_space_competition_about_competition_text: "Olive is having a competition for best implementation of our proof of space construct. $100k in total prize money will be awarded."
   proof_of_space_competition_about_competition_dates_text: "The contest ends October 9th, 2019."
   proof_of_space_competition_about_competition_github_text: "Learn more on [Github](https://github.com/Chia-Network/proofofspace)."
   proof_of_space_competition_about_competition_keybase_text: "Join our public [Keybase](https://keybase.io/team/chia_network.public) channel."
