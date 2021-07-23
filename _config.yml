@@ -33,15 +33,15 @@ social:
     - https://keybase.io/team/chia_network.public
     - https://discord.com/invite/wQYnm6uT
 google_analytics_snippet: |
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-09J0JTS93B"></script>
-<script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-09J0JTS93B"></script>
+  <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-09J0JTS93B');
-</script>
+  </script>
 defaults:
   - scope:
       path: ""
