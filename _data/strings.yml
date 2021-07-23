@@ -73,16 +73,11 @@ en: # English
   green_paper_addendum: |
     1. Introduction
 In 2009, Satoshi Nakamoto invented an alternative store of value never before seen in human history. In the next decade, his creation, Bitcoin, has secured its place as the hardest form of money in the new digital economy and the foundation of a new open, global financial system. Bitcoin changed the world; however, there has always been one complaint about Satoshi’s breakthrough - its energy cost.
-
 Whenever we are talking about Bitcoin or Proof of Work, its “Consensus“ can definitely be defined as a “competitive money burning process”. Every time a transaction is added to the ledger, miners are racing to solve the puzzle and win a reward; however, only one of them wins. When a block is found, the process starts over. It is definitely not the perfect system, but it’s the most efficient one the world has witnessed so far. 
-
 The crypto space never takes a day off. Things constantly evolve and do so at a rapid pace. Legacy networks in the space now face issues that have to do with their established modus operandi. More and more people are challenging the decentralized nature of Bitcoin; just a few days ago, Elon Musk, who turned from a Bitcoin bull to the cryptocurrency’s most avid critic overnight, tweeted that “Bitcoin is actually highly centralized, with supermajority controlled by handful of big mining (aka hashing) companies.” He supported this statement by citing the recent coal mine flood accident in Xinjiang, China, as a result of which Bitcoin’s hash rate dropped 35%.
-
 And it’s not just the decentralization that has been a bone of contention lately. Just three months ago, in February, Musk’s Tesla announced that it would start accepting Bitcoin payments for electric vehicle purchases. Simultaneously, it also became clear that the company had invested $1.5 billion in Bitcoin. Needless to say, the market reacted positively to the news. However, last week, Musk backtracked on Tesla’s announcement, revealing that eventually, the company had suspended vehicle purchases with Bitcoin, citing environmental concerns, namely the increasing use of fossil fuels for the cryptocurrency’s mining needs.
-
 Having said that, it is obvious that there are fundamental problems that the crypto space needs to address, if it wants to accelerate the adoption rate and live up to its promise to give power to the people over their finances.
-
-We at ChainGreen, as crypto enthusiasts and true believers in the potential of blockchain technology, think that the access to blockchain and cryptocurrency projects should be democratized so that basically everyone who has hard drive storage to spare will have the opportunity to take part in the validation of transactions without further exacerbating his/her own carbon footprint. Crypto can be smart, simple, and, most importantly, green and highly decentralized.
+We at Olive, as crypto enthusiasts and true believers in the potential of blockchain technology, think that the access to blockchain and cryptocurrency projects should be democratized so that basically everyone who has hard drive storage to spare will have the opportunity to take part in the validation of transactions without further exacerbating his/her own carbon footprint. Crypto can be smart, simple, and, most importantly, green and highly decentralized.
   terms_title: "Terms"
   terms_description: |
     The Chia® brand is a promise of standard in innovation and quality.
