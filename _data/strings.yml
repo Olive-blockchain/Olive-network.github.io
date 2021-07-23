@@ -69,7 +69,7 @@ en: # English
   green_paper_download: "Download Green Paper"
   green_paper_description: |
     The Green Paper details a new consensus algorithm called Proofs of Space and Time, “PoST”. PoST replaces the Proof of Work which wastes massive amounts of energy and is less secure against mining centralization.
-  green_paper_addendum_title: "Learn more"
+  green_paper_addendum_title: "Green paper"
   green_paper_addendum: |
     In 2009, Satoshi Nakamoto invented an alternative store of value never before seen in human history. In the next decade, his creation, Bitcoin, has secured its place as the hardest form of money in the new digital economy and the foundation of a new open, global financial system. Bitcoin changed the world; however, there has always been one complaint about Satoshi’s breakthrough - its energy cost.
     Whenever we are talking about Bitcoin or Proof of Work, its “Consensus“ can definitely be defined as a “competitive money burning process”. Every time a transaction is added to the ledger, miners are racing to solve the puzzle and win a reward; however, only one of them wins. When a block is found, the process starts over. It is definitely not the perfect system, but it’s the most efficient one the world has witnessed so far. 
