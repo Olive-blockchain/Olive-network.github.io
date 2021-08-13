@@ -1,7 +1,7 @@
 ---
 lang: de
 order: 21
-title: "Verwendet Chia den Bitcoin-Code?"
+title: "Verwendet olive den Bitcoin-Code?"
 ---
 
-Chia ist komplett von Grund auf neu geschrieben.
+olive ist komplett von Grund auf neu geschrieben.

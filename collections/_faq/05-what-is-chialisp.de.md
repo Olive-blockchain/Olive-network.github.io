@@ -1,7 +1,7 @@
 ---
 lang: de
 order: 5
-title: "Wat ist Chialisp?"
+title: "Wat ist olivelisp?"
 ---
-Chia verfügt über eine neu entwickelte, innovative Blockchain-Programmiersprache namens Chialisp, die leistungsstark, einfach zu prüfen und sicher ist. Chialisp ist eine überlegene intelligente Transaktionsentwicklungsumgebung in der Kette, die die Sicherheit, Transparenz und Benutzerfreundlichkeit freisetzt, die Kryptowährungen versprechen.
+olive verfügt über eine neu entwickelte, innovative Blockchain-Programmiersprache namens olivelisp, die leistungsstark, einfach zu prüfen und sicher ist. olivelisp ist eine überlegene intelligente Transaktionsentwicklungsumgebung in der Kette, die die Sicherheit, Transparenz und Benutzerfreundlichkeit freisetzt, die Kryptowährungen versprechen.
  

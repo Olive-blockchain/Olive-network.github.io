@@ -1,7 +1,7 @@
 ---
 lang: es
 order: 21
-title: "¿Chia usa el código de Bitcoin?"
+title: "¿olive usa el código de Bitcoin?"
 ---
 
-No. Chia está escrita completamente desde cero.
+No. olive está escrita completamente desde cero.

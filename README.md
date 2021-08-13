@@ -1,7 +1,7 @@
-Chia.net
+olive.net
 ========
 
-Website for the [Chia](https://www.chia.net/) cryptocurrency. Test.
+Website for the [olive](https://www.olive.net/) cryptocurrency. Test.
 
 Development
 -----------
@@ -10,8 +10,8 @@ To set up your environment and run the server locally:
 
 ```bash
 gem install bundler
-git clone --depth 1 https://github.com/Chia-Network/chia-network.github.io.git
-cd chia-network.github.io
+git clone --depth 1 https://github.com/olive-Network/olive-network.github.io.git
+cd olive-network.github.io
 bundle install
 bundle exec jekyll serve
 ```
@@ -24,26 +24,26 @@ To ensure videos work in Chrome/Firefox/Safari/Edge, videos should be encoded as
 
 ```bash
 # use this command to generate the H.264 MP4 version of the video
-ffmpeg -i assets/Chia_Launch_original.mp4 -vcodec h264 -acodec aac -strict -2 -movflags +faststart assets/Chia_Launch.mp4 # convert video (in any supported format) into H.264 MP4
+ffmpeg -i assets/olive_Launch_original.mp4 -vcodec h264 -acodec aac -strict -2 -movflags +faststart assets/olive_Launch.mp4 # convert video (in any supported format) into H.264 MP4
 ```
 
 Then, generate a thumbnail for the video, used as a fallback (when the browser doesn't support video) or shown before the video is loaded:
 
 ```bash
 # extract frame at 0 hours, 0 minutes, and 15 seconds into the video, save it as a JPG
-ffmpeg -ss 00:00:15 -i assets/Chia_Launch.mp4 -vframes 1 -q:v 2 assets/Chia_Launch.jpg
+ffmpeg -ss 00:00:15 -i assets/olive_Launch.mp4 -vframes 1 -q:v 2 assets/olive_Launch.jpg
 ```
 
 Now that you have the H.264 MP4, and the thumbnail JPG, use the following markup in your HTML to include the video (with our cross-browser video component):
 
 ```
-{% include video.html id="some-unique-identifier-for-video" path="/assets/Chia_Launch.mp4" mimetype="video/mp4" thumbnail="/assets/Chia_Launch.jpg" %}
+{% include video.html id="some-unique-identifier-for-video" path="/assets/olive_Launch.mp4" mimetype="video/mp4" thumbnail="/assets/olive_Launch.jpg" %}
 ```
 
 Deployment
 ----------
 
-Push to a GitHub repository, making sure the repository is set up with `https://www.chia.net` as a [custom domain name](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
+Push to a GitHub repository, making sure the repository is set up with `https://www.olive.net` as a [custom domain name](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
 
 Content Management
 ------------------
@@ -60,10 +60,10 @@ date:   2019-04-04
 # also used as title of card preview on Twitter and Facebook
 title:  "Olive Blockchain Announces 2nd VDF Competition with $100,000 in Total Prize Money"
 
-# thumbnail image (note: must be a full URL, so it has to start with `https://chia.net/...`)
-# note: this defaults to https://chia.net/android-chrome-384x384.png
+# thumbnail image (note: must be a full URL, so it has to start with `https://olive.net/...`)
+# note: this defaults to https://olive.net/android-chrome-384x384.png
 # note: test this using https://cards-dev.twitter.com/validator and https://developers.facebook.com/tools/debug/sharing/
-image: https://chia.net/android-chrome-384x384.png
+image: https://olive.net/android-chrome-384x384.png
 
 # description of the current page
 # note: this defaults to the first paragraph of the content
@@ -103,8 +103,8 @@ To add a new News Article, create a new file at `collections/_news/<YYYY>-<MM>-<
 
 ```markdown
 ---
-title: "BitTorrent inventor announces eco-friendly bitcoin competitor Chia" # title of the news article
-weblink: "https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/"   # link to online publisher's article
+title: "BitTorrent inventor announces eco-friendly bitcoin competitor olive" # title of the news article
+weblink: "https://techcrunch.com/2017/11/08/olive-network-cryptocurrency/"   # link to online publisher's article
 date: 2017-11-08                                                            # publication date of news article
 thumbnail: "/assets/techcrunch.png"                                         # thumbnail shown with the article
 source: TechCrunch                                                          # publisher name
