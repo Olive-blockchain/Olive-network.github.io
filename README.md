@@ -10,7 +10,7 @@ To set up your environment and run the server locally:
 
 ```bash
 gem install bundler
-git clone --depth 1 https://github.com/olive-Network/olive-network.github.io.git
+git clone --depth 1 https://github.com/Olive-blockchain/Olive-blockchain.git
 cd olive-network.github.io
 bundle install
 bundle exec jekyll serve
