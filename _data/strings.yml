@@ -9,8 +9,11 @@ en: # English
   homemain_description: |
     Mainnet Released with NFT plots support!
     --------------------
+    
     Olive is a fork of Chia Network, with 1.4% of Chia prefarm. Olive is in the talks with multinational startups NGOS in mental health on incorporating Olive into their payments and daily operations
     We believe that Olive is the new safe, green and secure way to do transaction. With deflation characteristics of Olive, early adopters will be rewarded. With minimal prefarm
+    
+    On the day of 13/8/2021, We introduced Olive mainnet to the world, we hope to bring a new alternative for decentralised finance to our friends all over the world. 
   homemain_addendum: |
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
   homemain_box_title: "Download"
