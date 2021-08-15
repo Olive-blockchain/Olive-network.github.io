@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.63963244"
-     inkscape:cx="88.331981"
-     inkscape:cy="561.25984"
-     inkscape:window-width="1312"
-     inkscape:window-height="940"
+     inkscape:zoom="0.38863989"
+     inkscape:cx="-99.063429"
+     inkscape:cy="383.38833"
+     inkscape:window-width="1680"
+     inkscape:window-height="1050"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -39,18 +39,36 @@
      inkscape:groupmode="layer"
      id="layer1">
     <ellipse
-       style="fill:#00dc00;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:1"
-       id="path60"
-       cx="13.857245"
-       cy="29.575907"
-       rx="11.375348"
-       ry="28.334959" />
-    <ellipse
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        id="path1099"
        cx="13.650418"
        cy="46.949162"
        rx="2.481894"
        ry="26.266712" />
+    <ellipse
+       style="fill:#93dc00;fill-opacity:1;stroke-width:0.264583"
+       id="path1759"
+       cx="105.52292"
+       cy="149.09367"
+       rx="85.099129"
+       ry="109.60768" />
+    <path
+       sodipodi:type="star"
+       style="fill:#e5ff75;fill-opacity:1"
+       id="path1827"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="277.89221"
+       sodipodi:cy="326.78067"
+       sodipodi:r1="351.39215"
+       sodipodi:r2="175.69608"
+       sodipodi:arg1="1.058008"
+       sodipodi:arg2="1.6863265"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 450.28831,632.97673 257.63914,501.30552 39.955774,585.35889 105.65067,361.45 -41.556691,180.39473 191.69416,173.68264 318.39837,-22.269032 396.86043,197.49156 622.3753,257.44203 437.61667,399.97363 Z"
+       transform="scale(0.26458333)"
+       inkscape:transform-center-x="-3.3118122"
+       inkscape:transform-center-y="-5.6691806" />
   </g>
 </svg>
