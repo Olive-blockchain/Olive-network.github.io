@@ -1,7 +1,10 @@
 ---
 lang: en
 order: 2
-title: "Where can I get answers to questions about running olive?"
----
+title: "Why there is no reward?"
+Olive difficulty is set to higher levels compared to other chia forks aiming to provide a more stable connections to all our farmers
+when the proof is found, coins will be rewarded when your wallet is synchronized , and the rewards won will  be shown if the wallet is synchronized.
 
-You should first read the [repository FAQ](https://github.com/olive-Network/olive-blockchain/wiki/FAQ), check out the wealth of information on the [repository wiki](https://github.com/olive-Network/olive-blockchain/wiki/) and  join us on [Keybase](https://keybase.io/team/olive_network.public) in the #testnet or #beginner channels. We have also created a good [summary of the basics of creating plots](https://www.olive.net/2021/02/22/plotting-basics.html) for olive.
+
+
+
