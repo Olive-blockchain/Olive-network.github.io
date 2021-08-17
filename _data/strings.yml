@@ -18,10 +18,12 @@ en: # English
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
   homemain_box_title: "Download"
   homemain_box_title2: "Database"
+  homemain_box_title3: "Olive explorer"
   homemain_box_section_1: "Start Mining OLIVE now"
   homemain_box_section_2: "Install"
   homemain_box_latest_version: "Latest Version:"
   homemain_box_database: "Database"
+  homemain_box_blocksheight: "Olive Explorer"
   homemain_olive_blockchain_no_releases: "0.0.20"
   homemain_wallets_no_releases: "1.0"
   homemain_box_button: "Download Source Code"
