@@ -23,7 +23,7 @@ en: # English
   homemain_box_section_2: "Install"
   homemain_box_latest_version: "Latest Version:"
   homemain_box_database: "Database"
-  homemain_box_blocksheight: "Olive Explorer"
+  homemain_box_blocksheight: "Visit Olive Explorer"
   homemain_olive_blockchain_no_releases: "0.0.20"
   homemain_wallets_no_releases: "1.0"
   homemain_box_button: "Download Source Code"
