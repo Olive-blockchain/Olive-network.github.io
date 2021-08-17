@@ -21,6 +21,7 @@ en: # English
   homemain_wallets_no_releases: "1.0"
   homemain_box_button: "version 0.0.20"
   homemain_Olivedb: "Download Database"
+  homemain_oliveexplorer: "Visit Olive Explorer"
   install_box_button: "Install Olive Blockchain"
   homemain_downloads_link: "Release notes"
   homemain_idc_title: "IDC on Olive"
