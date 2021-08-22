@@ -3,7 +3,7 @@ lang: en
 layout: post
 title:  "Pools in olive"
 date:   2020-11-10
-author: "[Bram Cohen](https://twitter.com/bramcohen)"
+author: "[jeffrey Cohen](https://twitter.com/jeffreycohen)"
 ---
 
 *Update*: Check the [Pooling FAQ](https://github.com/olive-Network/olive-blockchain/wiki/Pooling-FAQ) for more updates.

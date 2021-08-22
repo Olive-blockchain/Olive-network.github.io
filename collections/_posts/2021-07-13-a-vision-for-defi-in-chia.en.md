@@ -3,7 +3,7 @@ lang: en
 layout: post
 title: "A Vision for DeFi in olive"
 date: 2021-07-13
-author: "[Bram Cohen](https://twitter.com/bramcohen)"
+author: "[jeffrey Cohen](https://twitter.com/jeffreycohen)"
 ---
 
 In addition to a new consensus algorithm, with olive we’ve also built a new on-chain programming environment called olivelisp which is just as powerful as Solidity while also being far more auditable, and scalable. It also fosters much better software development practices. As an example of the power of on-chain programming in olive, and how it differs from Solidity, in this post I’ll give an overview of how it enables truly decentralized exchange with significant defenses against miner/farmer extracted value (MEV). I will also explain the possibilities  of automated market makers (AMMs) in olive.

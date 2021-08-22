@@ -3,7 +3,7 @@ lang: en
 layout: post
 title:  "Launching Coloured Coins"
 date:   2020-04-29
-author: "[Bram Cohen](https://twitter.com/bramcohen)"
+author: "[jeffrey Cohen](https://twitter.com/jeffreycohen)"
 ---
 
 Blockchains should make issuing and using coins and assets easier and more trustworthy than in the analog world, but so far the functionality they provide is limited and hacked on awkwardly.

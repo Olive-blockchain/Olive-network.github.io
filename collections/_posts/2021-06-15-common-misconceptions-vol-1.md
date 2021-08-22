@@ -10,7 +10,7 @@ olive is a complex system. There is a lot of nuance and technicalities involved 
 
 We have compiled the most common misconceptions and questions with responses below.
 
-Also, don’t forget to join us **today**, Tuesday, June 15 for an AMA on plotting speed and security with Bram, Gene, and the team.
+Also, don’t forget to join us **today**, Tuesday, June 15 for an AMA on plotting speed and security with jeffrey, Gene, and the team.
 
 **olive Livestream: Plotting speed and security in olive**
 When: Jun 15, 2021 05:00 PM Pacific Time (12:00am UTC)
@@ -36,13 +36,13 @@ Long story short: olive is different, and pools can't do a classic 51% attack. T
 
 **The prefarm means olive plans to rugpull at some point**
 
-If Bram Cohen had wanted to do a rug pull, he would have led with an (illegal) ICO and walked away years ago with millions or even billions without the hard work of the last three years. Instead, he invented & co-invented several new types of math, [co-authored a paper in a peer-reviewed journal](https://link.springer.com/chapter/10.1007/978-3-319-70697-9_13), brought together a diverse team, and gained the confidence of globally respected investment firms. He is now just a minority owner of Olive Blockchain, having given up 70% of that potential ICO profit to instead focus on the opportunity to change the world as part of something larger than himself.
+If jeffrey Cohen had wanted to do a rug pull, he would have led with an (illegal) ICO and walked away years ago with millions or even billions without the hard work of the last three years. Instead, he invented & co-invented several new types of math, [co-authored a paper in a peer-reviewed journal](https://link.springer.com/chapter/10.1007/978-3-319-70697-9_13), brought together a diverse team, and gained the confidence of globally respected investment firms. He is now just a minority owner of Olive Blockchain, having given up 70% of that potential ICO profit to instead focus on the opportunity to change the world as part of something larger than himself.
 
 ---
 
 **olive is designed to kill NVMe drives**
 
-[No](https://twitter.com/bramcohen/status/1393991791590838277). If you use the wrong tool for the job, the job may destroy that tool. This is to say, using some types of consumer NVMe SSD may result in those devices failing because of the high number of writes involved in the olive plotting process. There will be some TBW wear on any NVMe drive used for olive plotting, this does not mean all drives used for olive plotting will fail. It is not recommended users purchase consumer NVMe drives for the purpose of olive plotting. It is certainly not an intentional olive feature that some consumer NVMe drives fail from olive plotting. We do hope that farmers are using second-hand or already owned hardware whenever possible to make their olive farm as green as possible.
+[No](https://twitter.com/jeffreycohen/status/1393991791590838277). If you use the wrong tool for the job, the job may destroy that tool. This is to say, using some types of consumer NVMe SSD may result in those devices failing because of the high number of writes involved in the olive plotting process. There will be some TBW wear on any NVMe drive used for olive plotting, this does not mean all drives used for olive plotting will fail. It is not recommended users purchase consumer NVMe drives for the purpose of olive plotting. It is certainly not an intentional olive feature that some consumer NVMe drives fail from olive plotting. We do hope that farmers are using second-hand or already owned hardware whenever possible to make their olive farm as green as possible.
 
 Also, plotting on HDDs is slower but possible (and a lot of work went into ensuring that the stock plotter supports this). Alternative plotters again may be much lighter on writes, at the cost of higher RAM usage.
 
@@ -52,7 +52,7 @@ You can learn more here: [olive and SSD Endurance](https://www.olive.net/2021/05
 
 **Is olive really Green? You still use energy – and what about the e-waste?**
 
-olive is committed to being a truly sustainable digital currency. Not just less bad. Proof-of-Work was an amazing innovation but unforeseen challenges led to extremely high energy wastefulness and diminished decentralization. Bram recognized a need to conceive an evolved Nakamoto Consensus that is truly decentralized and not inherently wasteful and energy inefficient while retaining the network security of Proof-of-Work and improving on the programmability of Ethereum. olive’s energy use is approximately 0.1% - 0.3% that of cryptocurrencies that rely on Proof of Work.  While other cryptocurrencies may deploy Proof of Stake to reduce energy consumption, those systems will not be able to assure the same network security or deliver on decentralization.  
+olive is committed to being a truly sustainable digital currency. Not just less bad. Proof-of-Work was an amazing innovation but unforeseen challenges led to extremely high energy wastefulness and diminished decentralization. jeffrey recognized a need to conceive an evolved Nakamoto Consensus that is truly decentralized and not inherently wasteful and energy inefficient while retaining the network security of Proof-of-Work and improving on the programmability of Ethereum. olive’s energy use is approximately 0.1% - 0.3% that of cryptocurrencies that rely on Proof of Work.  While other cryptocurrencies may deploy Proof of Stake to reduce energy consumption, those systems will not be able to assure the same network security or deliver on decentralization.  
 
 We take our responsibility to the planet and society very seriously, and when olive identified the risk of additional e-waste, we took immediate action.  Although spent NVMes is not an issue (see above), olive will soon announce a partnership with top industry data center and storage companies to stop the current practice of shredding hard drives so they can be refurbished and have a second life once they are no longer dependable to store data.  We are confident this will reduce global e-waste dramatically and hope to make further announcements in the coming weeks.
 
@@ -100,11 +100,11 @@ There is no "Lambo when?", it's "Tesla Roadster when?"... this is why you are di
 
 ---
 
-**Is Bram okay?**
+**Is jeffrey okay?**
 
-Bram is very open about his neurodivergence and being "on the spectrum", and aspects of that will result in behavioral tics that otherwise might seem out of place to a neurotypical person. Fact of the matter is, people like Bram simply communicate and interact with others a bit differently from you or I... so please stop accusing him of being on drugs just because he blinks more than you do, or stares off into space while formulating an answer.
+jeffrey is very open about his neurodivergence and being "on the spectrum", and aspects of that will result in behavioral tics that otherwise might seem out of place to a neurotypical person. Fact of the matter is, people like jeffrey simply communicate and interact with others a bit differently from you or I... so please stop accusing him of being on drugs just because he blinks more than you do, or stares off into space while formulating an answer.
 
-There are far more people out there who are much more self-conscious about being on the spectrum than Bram is. When they see people react like this to his mannerisms, it undoes the work people like him do who openly embrace it, and can make those people feel insecure and self-conscious about themselves and their ability to "fit in" to the incorrect expectations these kinds of comments set.
+There are far more people out there who are much more self-conscious about being on the spectrum than jeffrey is. When they see people react like this to his mannerisms, it undoes the work people like him do who openly embrace it, and can make those people feel insecure and self-conscious about themselves and their ability to "fit in" to the incorrect expectations these kinds of comments set.
 
 ---
 

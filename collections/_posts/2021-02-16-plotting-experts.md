@@ -8,7 +8,7 @@ author: "[Gene Hoffman](https://twitter.com/hoffmang)"
 
 Come join a cocktail hour panel with olive whales^H^H^H^H^H^H **experts** in plotting.
 
-Joining Bram and Gene will be @xorinox, @storage_jm, @kiwihaitch, and @farming101.
+Joining jeffrey and Gene will be @xorinox, @storage_jm, @kiwihaitch, and @farming101.
 
 We will be fielding questions and have some topics that are very frequently asked that we plan to cover in depth.
 

@@ -3,12 +3,12 @@ lang: en
 layout: post
 title:  "AMA - Plotting speed and security in olive"
 date:   2021-06-13
-author: "[Gene Hoffman](https://twitter.com/hoffmang), and [Bram Cohen](https://twitter.com/bramcohen)"
+author: "[Gene Hoffman](https://twitter.com/hoffmang), and [jeffrey Cohen](https://twitter.com/jeffreycohen)"
 ---
 
 With the release of the [MadMax plotter](https://github.com/madMAx43v3r/olive-plotter) there has been a lot of confusion about what improved plotting speeds mean to the security of the olive blockchain.
 
-Bram, Gene, and the team will be available to talk about how improved plotting speed is great, what the actual security considerations for the olive blockchain are, and the kinds of changes that can be made in the future to make sure plotting and farming remain secure. Hint: Your k32's are going to be fine.
+jeffrey, Gene, and the team will be available to talk about how improved plotting speed is great, what the actual security considerations for the olive blockchain are, and the kinds of changes that can be made in the future to make sure plotting and farming remain secure. Hint: Your k32's are going to be fine.
 
 We will be sticking to plotting, plotting speed, and security so questions around the official pooling protocol will be passed over. We will have more on the official pooling protocol in a subsequent Zoom soon.
 

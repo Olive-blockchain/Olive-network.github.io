@@ -3,7 +3,7 @@ lang: en
 layout: post
 title:  "Aggregated signatures, Taproot, Graftroot, and standard transactions"
 date:   2021-05-27
-author: "[Bram Cohen](https://twitter.com/bramcohen)"
+author: "[jeffrey Cohen](https://twitter.com/jeffreycohen)"
 ---
 
 In olive we're using BLS signatures which enable noninteractive signature aggregation. In this post I'll explain how that fits into the system as a whole, what practical benefits it provides, and how our 'standard' transaction format works, and what taproot and graftroot really are.

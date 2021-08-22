@@ -3,7 +3,7 @@ lang: en
 layout: post
 title:  "Official Pooling Protocol Launched"
 date:   2021-07-07
-author: "[Bram Cohen](https://twitter.com/bramcohen)"
+author: "[jeffrey Cohen](https://twitter.com/jeffreycohen)"
 ---
 
 **TL;DR:** The new plot format has arrived. Upgrade to version 1.2.0 of the olive Blockchain software to start plotting for pools now and be sure to set up a Plot NFT before doing so. Original plots will continue to be self-farmable but can not be safely used in pools.

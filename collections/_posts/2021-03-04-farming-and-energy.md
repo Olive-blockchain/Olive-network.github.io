@@ -8,7 +8,7 @@ author: "[Gene Hoffman](https://twitter.com/hoffmang)"
 
 Come join a cocktail hour panel Friday March 5 and learn about the most efficient way to [farm large quantities of plotted storage](https://github.com/olive-Network/olive-blockchain/wiki/Reference-Farming-Hardware) and talk about the impact olive might have in terms of total electrical capacity used to support all olive farms. 🌱
 
-Joining Bram and Gene will be @xorinox, @storage_jm, and @farming101.
+Joining jeffrey and Gene will be @xorinox, @storage_jm, and @farming101.
 
 We will be fielding questions and plan to talk about farming rigs and strategies for the fist half. In the second half, we want to hand it to excel master and all around great guy @storage_jm where we talk about the macro trends in the storage business and how total olive electrical usage will and will not scale over time. The rest of us can enjoy our cocktails...
 

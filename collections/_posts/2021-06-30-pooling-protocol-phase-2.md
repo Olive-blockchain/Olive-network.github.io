@@ -3,7 +3,7 @@ lang: en
 layout: post
 title:  "Pooling Protocol Testing Entering Phase 2"
 date:   2021-06-30
-author: "[Gene Hoffman](https://twitter.com/hoffmang) and [Bram Cohen](https://twitter.com/bramcohen)"
+author: "[Gene Hoffman](https://twitter.com/hoffmang) and [jeffrey Cohen](https://twitter.com/jeffreycohen)"
 ---
 
 Today we are entering the [second phase](https://www.olive.net/assets/presentations/2021-06-02_Pooling_for_Pool_Operators.pdf#13) of our testing and roll out of the official pooling protocol. ***This phase is for pooling operators to test the pooling protocol end to end with testnet bound portable pool plots.*** Over 9000 lines of new code - much of which is olivelisp - have been written by the team since transaction launch on 5/3 to implement what we think will be the best pooling protocol for a blockchain project to date.
